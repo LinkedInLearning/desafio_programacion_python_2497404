@@ -8,17 +8,17 @@ Consulta el archivo Readme en la rama main para obtener instrucciones e informac
 Amplía tus conocimientos en programación y mejorar tu pensamiento lógico-computacional en Python a través de la solución de problemas con este curso que te supondrá un verdadero desafío y te permitirá desarrollar el pensamiento algorítmico para resolver problemas de lógica y algoritmia usando Python como lenguaje de programación. Durante el contenido, se van a desarrollar las soluciones para tres tipos de desafíos de programación: cadenas de texto, numéricos y estructuras de datos como listas y diccionarios, tu objetivo es obtener una solución óptima para cada uno de ellos. ¿Te atreves?
 
 ## Instrucciones
-Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
+Este repositorio tiene directorios para cada uno de los capítulos del curso.
 
-## Ramas
-Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
+## Directorios
+Las directorios están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura del directorio es Capítulo#, para los archivos la convención es Capítulo#_Vídeo#. Por ejemplo, el directorio denominada `02_` corresponde al segundo capítulo y el archivo que se encuentra en este directorio iniciando con el nombre 02_03_ corresponde al tercer vídeo de ese capítulo.
 
 ## Instalación
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-	- [software]
+	- Python
+	- Editor de código como VS Code o PyCharm
 	
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
 
 ### Docente
 
