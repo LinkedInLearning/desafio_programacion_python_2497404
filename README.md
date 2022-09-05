@@ -13,13 +13,6 @@ Este repositorio tiene directorios para cada uno de los capítulos del curso.
 ## Directorios
 Las directorios están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura del directorio es Capítulo#, para los archivos la convención es Capítulo#_Vídeo#. Por ejemplo, el directorio denominada `02_` corresponde al segundo capítulo y el archivo que se encuentra en este directorio iniciando con el nombre 02_03_ corresponde al tercer vídeo de ese capítulo.
 
-## Instalación
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-	- Python
-	- Editor de código como VS Code o PyCharm
-	
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-
 ### Docente
 
 **Ana María Pinto**
