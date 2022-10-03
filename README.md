@@ -1,7 +1,7 @@
 # Desafío de programación: Python
 Este es el repositorio del curso de LinkedIn Learning `[Desafío de programación: Python]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url] 
+![image](https://user-images.githubusercontent.com/71371373/193588081-529003ac-df8c-4fe2-9357-a3d5698b382b.png)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
