@@ -8,6 +8,10 @@ Consulta el archivo Readme en la rama main para obtener instrucciones e informac
 Amplía tus conocimientos en programación y mejorar tu pensamiento lógico-computacional en Python a través de la solución de problemas con este curso que te supondrá un verdadero desafío y te permitirá desarrollar el pensamiento algorítmico para resolver problemas de lógica y algoritmia usando Python como lenguaje de programación. Durante el contenido, se van a desarrollar las soluciones para tres tipos de desafíos de programación: cadenas de texto, numéricos y estructuras de datos como listas y diccionarios, tu objetivo es obtener una solución óptima para cada uno de ellos. ¿Te atreves?
 
 ## Instrucciones
+
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta.
+Cada episodio de la serie Level Up ofrece al menos 12 ejercicios prácticos en diferentes niveles de dificultad para que puedas desafiarte y reforzar lo que has aprendido. Aprende a configurar y utilizar un espacio de código con el vídeo “Cómo usar GitHub Codespaces con este curso”.
+
 Este repositorio tiene directorios para cada uno de los capítulos del curso.
 
 ## Directorios
